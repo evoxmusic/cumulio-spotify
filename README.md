@@ -33,3 +33,4 @@ This project is a demonstration of how Cumul.io `Custom Events` can be used for 
 4. On your browser, go to `http://localhost:3000/` and Login to your Spotify account 🥳
 
 Note: You do not have to rebuild every time you make a change to this once it's running. Just refresh your browser!
+x
